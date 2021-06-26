@@ -1,0 +1,14 @@
+ --Ideias para incrementar o projeto "Let me ask"--
+
+> Responsividade --
+
+> Temas --
+
+> Talves mudar de banco de dados
+    -Firestore database
+    -Supabase
+
+> Estuda mais bibliotecas CSS
+    -Styled Components
+
+> Imprementar ESLint, Prettier
